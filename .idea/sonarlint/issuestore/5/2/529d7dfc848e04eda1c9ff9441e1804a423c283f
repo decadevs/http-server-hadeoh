@@ -1,0 +1,10 @@
+
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ê¦ÁØ8Ä°Œƒÿ-
+?squid:S1643#"Use a StringBuilder instead.(õŞ’…ûÿÿÿÿ8Éè®“ÿ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÅ­¾øÿÿÿÿ8ì¹˜ƒÿ-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¢È÷Èıÿÿÿÿ8ÖÙÅ“ÿ-
+Hsquid:S34573"%String contains no format specifiers.(ù«Éúÿÿÿÿ8ÆòÆ“ÿ-
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ù«Éúÿÿÿÿ8ÆòÆ“ÿ-
